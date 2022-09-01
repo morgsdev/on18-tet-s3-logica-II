@@ -4,9 +4,9 @@
 //   código aqui;
 // }
 
-for(let i = 0; i <= 10; i++) {3
-  console.log(`número ${i}`)
-}
+// for(let i = 0; i <= 10; i++) {3
+//   console.log(`número ${i}`)
+// }
 
 // let alunas = ["Natália", "Meujaela", "Gabriele"];
 // let numero = 2
@@ -18,12 +18,12 @@ for(let i = 0; i <= 10; i++) {3
 // console.log(numeros[1])
 // console.log(numeros[2])
 
-for(let i = 0; i < numeros.length; i++) {
-  const dobro = numeros[i] * 2 
-  console.log(dobro)
-}
+// for(let i = 0; i < numeros.length; i++) {
+//   const dobro = numeros[i] * 2 
+//   console.log(dobro)
+// }
 
-console.log(i)
+// console.log(i)
 
 // WHILE
 
@@ -31,23 +31,20 @@ console.log(i)
   //   código aqui;
   // }
   
-let i = 0
-while (i < numeros.length) {
-  const dobro = numeros[i] * 2
-  console.log(dobro)
-  i++
-}
-
-// FOR/OF
-
-// for (variavel of iteravel) {
-//   declaração
+// let i = 0
+// while (i < numeros.length) {
+//   const dobro = numeros[i] * 2
+//   console.log(dobro)
+//   i++
 // }
-let numeros = [3, 2, 4, 3, 5, 1, 3, 4, 2, 9, 3, 1];
 
-for (let numero of numeros) {
-  const dobro = numero * 2;
-  console.log(dobro)
+// FOR/OF : ele percorre o array sem precisar do i++
+lista = [1, 2, 3, 4, 5]
+
+for (let nomeQueEuQuiser of lista) {
+  console.log(nomeQueEuQuiser);
 }
+
+
 
 
