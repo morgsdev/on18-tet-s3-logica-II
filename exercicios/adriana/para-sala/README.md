@@ -47,14 +47,14 @@ Dica de saída:
 
 ```js
 const idhPaises = {
-  noruega: "classifiaçãp",
-  qatar: "classifiaçãp",
-  canada: "classifiaçãp",
-  brasil: "classifiaçãp",
-  japao: "classifiaçãp",
-  vietna: "classifiaçãp",
-  afeganistao: "classifiaçãp",
-  camaroes: "classifiaçãp"
+  noruega: "classificação",
+  qatar: "classificação",
+  canada: "classificação",
+  brasil: "classificação",
+  japao: "classificação",
+  vietna: "classificação",
+  afeganistao: "classificação",
+  camaroes: "classificação"
 }
 
 ```
